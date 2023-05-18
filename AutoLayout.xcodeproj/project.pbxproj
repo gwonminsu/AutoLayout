@@ -17,6 +17,7 @@
 		6D84C7FA2A15A436009DD75A /* AutoLayoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D84C7F92A15A436009DD75A /* AutoLayoutTests.swift */; };
 		6D84C8042A15A436009DD75A /* AutoLayoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D84C8032A15A436009DD75A /* AutoLayoutUITests.swift */; };
 		6D84C8062A15A436009DD75A /* AutoLayoutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D84C8052A15A436009DD75A /* AutoLayoutUITestsLaunchTests.swift */; };
+		6D84C8132A15A526009DD75A /* cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6D84C8122A15A526009DD75A /* cat.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6D84C7FF2A15A436009DD75A /* AutoLayoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoLayoutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D84C8032A15A436009DD75A /* AutoLayoutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutUITests.swift; sourceTree = "<group>"; };
 		6D84C8052A15A436009DD75A /* AutoLayoutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoLayoutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6D84C8122A15A526009DD75A /* cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		6D84C7DE2A15A434009DD75A /* AutoLayout */ = {
 			isa = PBXGroup;
 			children = (
+				6D84C8122A15A526009DD75A /* cat.jpeg */,
 				6D84C7DF2A15A434009DD75A /* AppDelegate.swift */,
 				6D84C7E12A15A434009DD75A /* SceneDelegate.swift */,
 				6D84C7E32A15A434009DD75A /* ViewController.swift */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D84C8132A15A526009DD75A /* cat.jpeg in Resources */,
 				6D84C7EF2A15A436009DD75A /* LaunchScreen.storyboard in Resources */,
 				6D84C7EC2A15A436009DD75A /* Assets.xcassets in Resources */,
 				6D84C7E72A15A434009DD75A /* Main.storyboard in Resources */,
